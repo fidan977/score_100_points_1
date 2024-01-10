@@ -1,0 +1,16 @@
+<resources>
+    <string name="title_activity_2">F100</string>//название приложения
+    <string name="app_name">My Application3</string>
+    <string name="title_activity_main0">Первая страница</string>
+    <string name="button1">101</string>
+    <string name="button0">restart</string>
+
+    <string name="button">Back</string>
+    <string name="button2">Start</string>
+    <string name="textView2">StartScore</string>
+
+    <string name="textView">Score</string>
+    <string name="фон">фон</string>
+
+
+</resources>
